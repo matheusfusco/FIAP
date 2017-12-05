@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlacarApp</string>
+    <string name="label_titulo">Times</string>
+    <string name="desenvolvido_por">Desenvolvido por Matheus Fusco</string>
+    <string name="label_time_1">Time 1</string>
+    <string name="hint_digite_nome">Digite o nome do time</string>
+    <string name="label_time_2">Time 2</string>
+    <string name="comecar_jogo">Começar jogo</string>
+</resources>
