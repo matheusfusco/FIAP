@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        etTimeCasa = (EditText) findViewById(R.id.etTime1);
-        etTimeVisitante = (EditText) findViewById(R.id.etTime2);
+        etTimeCasa = (EditText) findViewById(R.id.etTimeCasa);
+        etTimeVisitante = (EditText) findViewById(R.id.etTimeVisitante);
     }
 
     public void comecarJogo(View v){

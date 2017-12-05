@@ -32,7 +32,7 @@
             android:text="@string/label_time_1" />
 
         <EditText
-            android:id="@+id/etTime1"
+            android:id="@+id/etTimeCasa"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_digite_nome" />
@@ -43,7 +43,7 @@
             android:text="@string/label_time_2" />
 
         <EditText
-            android:id="@+id/etTime2"
+            android:id="@+id/etTimeVisitante"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_digite_nome" />
