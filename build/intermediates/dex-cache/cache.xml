@@ -3,57 +3,93 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_48a16817153725181110c356b2c2bb0f5c3f5cf6\classes.dex" />
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_ae2e224db24b66bde4352e5c82c65d72e6dfc01c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8a6c222bc74e952d95bca46b7b35cf922644caa9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_114cea303233316fb0c8b1e2cfae96cfe42b2d6c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_2abfe5232e5fd27d0865381f2b2e17fe47af4c4e\classes.dex" />
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_09db8f219a5cf7e7edcf92d9434202d3e8118882\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_30c31f23265f5b36e47395ec54aab3e3e3c65e84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_66085347868d581e1f818466b1407a76aaeaa851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_b7d28eba7e1c309fcedc960fbd9aa35aab43099a\classes.dex" />
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_65576b393c7a7100915766d88298cb86bd596762\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="acaa0c65a9c1d5829cb5e7114191fa0eb4d14a53">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d51e9a987c071c348c6c4f146cdeb929444e01be\classes.dex" />
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_ed55af3d51404f8472a59d8714cd8ec8a3e8c10d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0044d3027d25db157aaf24128bf2c3688d928d46">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_35c31efec4bde8b93336ef7dc3a4fb828439092e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_9e40f6e6a15a4e276c2db34002faf21d69ad3bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_0892ef1d01cb16c53ac30ba6d00d492b357fbc62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1636bc28d4bf1bbd27a2812e15ec41cd3e7f5d3">
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d103c28cdacfe94368f54bcad5510d1c64eac660\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -62,52 +98,16 @@
         optimize="true"
         revision="25.0.2"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_af7bd68888a261fc2c58c9317371ae232b07629a\classes.dex" />
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_af7bd68888a261fc2c58c9317371ae232b07629a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="402d35581c46c16169b38997096900f4797ba585">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b51164d0edaae47075ee99ca6fa6481f0ded6f6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_773cbacfa7efd47009bae552b902b408407ea435\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jar="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_aad34bd5bd9b31a0a94c56b77daf992935b49672\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_8d9ac4df793f8306066d97638239eaf557149fdd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\logonrm\AndroidStudioProjects\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_03ae743b86cd19633fb41ec65473be070157f795\classes.dex" />
+        <dex dex="C:\Users\logonrm\Downloads\PlacarApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_548b556c4063eee5727af284179b6fe2002ddeef\classes.dex" />
     </item>
 
 </items>
